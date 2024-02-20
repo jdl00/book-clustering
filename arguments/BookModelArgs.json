@@ -1,0 +1,11 @@
+{
+"vocab_size": 30522,
+"input_dim": 768,
+"hidden_dim": 768,
+"pad_token_id": 0,
+"max_pos_embeddings": 512,
+"layer_norm_eps": 1e-12,
+"type_vocab_size": 1,
+"hidden_dropout_prob": 0.1,
+"n_clusters": 15
+}

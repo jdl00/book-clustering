@@ -1,0 +1,9 @@
+# Ignore Environment
+.venv/
+
+# Ignore caching
+*.DS_Store
+__pycache__/
+
+# Ignore the dataset
+*.csv
